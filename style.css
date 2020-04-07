@@ -68,5 +68,10 @@ a:hover{
 	border: #191C1E;
 	border-radius: 3px;
 	width:   -moz-available;
-	box-shadow: 3px 5px #0F1011;*/
+	box-shadow: 3px 5px #0F1011;
+}
+.secret{
+	margin-bottom: 5%;
+	margin-right: 50%;
+	margin-left: 50%;
 }
